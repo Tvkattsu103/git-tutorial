@@ -94,7 +94,11 @@
 		</dependency>
 	</dependencies>
 	<build>
+<<<<<<< HEAD
 		<finalName>exam final atjb</finalName>
+=======
+		<finalName>final atjb exam</finalName>
+>>>>>>> ac8dbf1847032758beff59b8332d477e139f6f12
 		<!-- To define the plugin version in your parent POM -->
 		<pluginManagement>
 			<plugins>
